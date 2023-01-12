@@ -8,6 +8,6 @@ Il progetto, iniziato a luglio 2022, deriva da risultati ottenuti da un progetto
 ## Obiettivo 
 Obiettivo di UniVOCIttà è raccogliere le voci di figure letterarie e viaggiatori che sono passati per Bologna he sono in grado di promuovere una diversa ed innovativa  interpretazione del ricco patrimonio della città di Bologna.
 
-##Stato del progetto
+## Stato del progetto
 In corso.
 
